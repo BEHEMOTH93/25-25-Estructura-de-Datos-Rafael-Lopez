@@ -1,0 +1,14 @@
+C:\Users\Rafael Lopez\Documents\Proyectos C#\deber1\bin\Debug\net9.0\deber1.exe
+C:\Users\Rafael Lopez\Documents\Proyectos C#\deber1\bin\Debug\net9.0\deber1.deps.json
+C:\Users\Rafael Lopez\Documents\Proyectos C#\deber1\bin\Debug\net9.0\deber1.runtimeconfig.json
+C:\Users\Rafael Lopez\Documents\Proyectos C#\deber1\bin\Debug\net9.0\deber1.dll
+C:\Users\Rafael Lopez\Documents\Proyectos C#\deber1\bin\Debug\net9.0\deber1.pdb
+C:\Users\Rafael Lopez\Documents\Proyectos C#\deber1\obj\Debug\net9.0\deber1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Lopez\Documents\Proyectos C#\deber1\obj\Debug\net9.0\deber1.AssemblyInfoInputs.cache
+C:\Users\Rafael Lopez\Documents\Proyectos C#\deber1\obj\Debug\net9.0\deber1.AssemblyInfo.cs
+C:\Users\Rafael Lopez\Documents\Proyectos C#\deber1\obj\Debug\net9.0\deber1.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Lopez\Documents\Proyectos C#\deber1\obj\Debug\net9.0\deber1.dll
+C:\Users\Rafael Lopez\Documents\Proyectos C#\deber1\obj\Debug\net9.0\refint\deber1.dll
+C:\Users\Rafael Lopez\Documents\Proyectos C#\deber1\obj\Debug\net9.0\deber1.pdb
+C:\Users\Rafael Lopez\Documents\Proyectos C#\deber1\obj\Debug\net9.0\deber1.genruntimeconfig.cache
+C:\Users\Rafael Lopez\Documents\Proyectos C#\deber1\obj\Debug\net9.0\ref\deber1.dll
